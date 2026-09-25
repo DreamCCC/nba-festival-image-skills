@@ -19,7 +19,8 @@ festival-poster/
   SKILL.md                     工作流与验收
   research.md                  检索：三条线、来源、记录方式
   design.md                    融合公式、机关类型、NBA 资产、免俗、补充要求、去 AI 味
-  styles.md                    风格池与文字规则
+  styles.md                    风格池与各风格的文案位置
+  copy.md                      每张一句应景文案的写法
   logoman.md                   Logoman 的三种放法、标准句、已验证案例
   prompting.md                 prompt 结构与范例
   scripts/generate.py          调用 img2.5，自动附上 Logoman 参考图
@@ -30,7 +31,7 @@ reference/output-envelope.md   返回给网站的信封格式
 ## 一批图怎么来
 
 1. 网站把节日、同事的补充要求、此前批次的概念与来源写进任务，新建 Agent。
-2. Agent 检索并写出六张概念卡，自检通过后写 prompt。
+2. Agent 做两轮并行检索，列 10 个候选，选出六张写成概念卡，自检通过后写 prompt。每张都有巧妙结合、一句文案和官方 Logoman。
 3. `generate.py` 带着 Logoman 参考图调用 img2.5，Logoman 在生成时直接进入画面。
 4. Agent 看图验收，不合格的重做，最后返回信封。
 5. 网站下载成图并存档。

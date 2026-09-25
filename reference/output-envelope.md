@@ -19,7 +19,7 @@ sources: N
   {
     "title": "概念名，中文不超过 8 个字或英文不超过 5 个词",
     "style": "风格名，取自 styles.md，例如 Risograph 双色印刷",
-    "has_text": false,
+    "copy": "画面上的文案原文，与 prompt 里引号内的文字一致",
     "asset": "主资产，例如 球架护垫",
     "fusion": "一句话说清双重读法：它是什么，同时又是什么",
     "insight": "出发点：这张图取自节日里人们真实在做的哪件事，一句话",
@@ -35,8 +35,8 @@ sources: N
 ]
 ```
 
-- `has_text` 表示成图里是否有可读文字。
-- `insight` 和 `inspiration` 来自概念卡的"洞察"和"灵感"两栏，网站会在大图旁展示给同事。写给人看，不要写成 prompt。
+- `copy`、`insight` 和 `inspiration` 来自概念卡的"文案""洞察"和"灵感"三栏，网站会在大图旁展示给同事。写给人看，不要写成 prompt。
 - `content_url` 原样填写，不要改写、缩短或重新托管。它约 30 分钟失效，最后一次生成完成后尽快返回信封。
+- 用脚本从 `prompts.json`、`results.json` 和概念卡拼出信封，再原样输出，避免 `content_url` 和 prompt 抄错。
 - 某张没有拿到 `content_url` 时重做该张，不要留空。
 - 生图脚本整体无法运行（例如缺少 `AIHUBMIX_API_KEY`）时，`===POSTERS===` 返回 `[]`，`===NOTES===` 只写错误原文。
