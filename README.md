@@ -19,7 +19,7 @@ festival-poster/
   SKILL.md                     工作流与验收
   research.md                  检索：三条线、来源、记录方式
   design.md                    融合公式、机关类型、NBA 资产、免俗、补充要求、去 AI 味
-  styles.md                    风格池与各风格的标题区位置
+  styles.md                    风格池与各风格的文字位置
   copy.md                      主文案与节日落款的写法和版式
   logoman.md                   Logoman 的三种放法、标准句、已验证案例
   prompting.md                 prompt 结构与范例

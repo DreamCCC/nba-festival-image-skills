@@ -19,6 +19,7 @@
 - 至少占画面高度 5%，完整不裁切，不被主体、文字或阴影遮挡。
 - Logoman 不压住机关和主体，也不抢走主体的位置。
 - 不画任何仿制标志，不拿 Logoman 的剪影做创意主体，也不出现 NBA 字标。
+- 唯一允许的其他标志是 Wilson 比赛用球上的 Wilson 字标，这时把标准句末尾写成 `No other logos except the Wilson script on the ball.`，见 [prompting.md](prompting.md#篮球)。
 
 ## 标准句
 
