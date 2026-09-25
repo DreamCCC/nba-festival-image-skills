@@ -22,6 +22,7 @@
 - 中文案例库：数英、Topys、站酷编辑推荐
 - 事务所与代理商案例页：Pentagram、Collins、Wieden+Kennedy 等
 - 官方：NBA.com、NBA 中国与各球队的官方社交账号、赛程页
+- 运动品牌：Nike、Jordan、adidas 的篮球战役与赛季视觉，用来找激情和动势的表达方式
 - 新闻与社会观察：用于节日洞察
 
 避开：模板站、素材站、Pinterest 聚合页、AI 生图画廊、提示词合集。
