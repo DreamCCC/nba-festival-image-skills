@@ -11,7 +11,7 @@
 3. **构图**：主体的位置和大小，动势朝哪个方向。
 4. **材料与工艺**：纸张、油墨、胶片、织物、磨损。
 5. **光线与色彩**：明亮的光源，以及不超过三种直接写出名字的明亮主色，见 [design.md](design.md#品牌调性)。
-6. **文案**：引号里写精确原文加 `exactly and only`，并写明字体气质、大小和位置，中文写明 `in Simplified Chinese characters`。见 [copy.md](copy.md)。
+6. **标题区**：主文案和节日落款各一句，分别用引号写精确原文加 `exactly and only`，写明字体、大小、位置和对齐方式，中文写明 `in Simplified Chinese characters`。见 [copy.md](copy.md#版式)。
 7. **Logoman**：[logoman.md](logoman.md#标准句) 的标准句。
 8. **排除项**：一句短的排除，只写这张图真正可能出错的东西，例如 `No other logos, no team marks, no other text`。
 
@@ -24,16 +24,16 @@
 
 ## 范例
 
-下面两段是按品牌调性写成的结构范例：明亮、有动势、每张一句文案。只学结构，不要照抄概念和文案。
+下面两段是按品牌调性写成的结构范例：明亮、有动势、每张都有主文案和节日落款。只学结构，不要照抄概念和文案。
 
-**瑞士字体海报，文案是主标题，品牌标记**
+**瑞士字体海报，大字是机关，标题区对齐网格，品牌标记**
 
 ```text
-Vertical 2:3 Swiss International Style typographic poster for the NBA Mid-Autumn Festival, printed in two bright flat inks, NBA red and sunny yellow, on crisp white paper. One word dominates the grid: "HOME" set in an enormous condensed bold grotesk, tightly kerned, tilted slightly upward as if in motion, spanning the full width across the middle of the poster. The letter O is not drawn as a letter: it is the round orange NBA regulation rim seen straight from below, the white net swinging inside it, and through the rim sits a warm golden full moon - so the word reads as home court, coming home for the reunion, and the moon at once. Below, in bold Simplified Chinese characters aligned to the left margin: "今晚，都回主场" exactly and only. Strict grid, generous margins. Brand mark: the attached image is the official NBA Logoman. Reproduce it exactly as supplied - tall rounded rectangle, blue left half, red right half, white dribbling-player silhouette, thin white outline - flat and full colour, not redrawn or restyled, small in the top-right corner at about 6% of the poster height, aligned to the grid. No other logos, no team marks, no other text.
+Vertical 2:3 Swiss International Style typographic poster for the NBA Mid-Autumn Festival, printed in two bright flat inks, NBA red and sunny yellow, on crisp white paper. One word dominates the grid: "HOME" set in an enormous condensed bold grotesk, tightly kerned, tilted slightly upward as if in motion, spanning the full width across the middle of the poster. The letter O is not drawn as a letter: it is the round orange NBA regulation rim seen straight from below, the white net swinging inside it, and through the rim sits a warm golden full moon - so the word reads as home court, coming home for the reunion, and the moon at once. Below it, a title block aligned to the left margin: the headline in bold Song-style Simplified Chinese characters, "今晚，都回主场" exactly and only; under it, smaller and widely letter-spaced, "八月十五 · 中秋快乐" exactly and only. Strict grid, generous margins. Brand mark: the attached image is the official NBA Logoman. Reproduce it exactly as supplied - tall rounded rectangle, blue left half, red right half, white dribbling-player silhouette, thin white outline - flat and full colour, not redrawn or restyled, small in the top-right corner at about 6% of the poster height, aligned to the grid. No other logos, no team marks, no other text.
 ```
 
-**高速运动摄影，文案是上方一行粗体字，真实载体**
+**高速运动摄影，上方居中标题区，真实载体**
 
 ```text
-Vertical 2:3 sports photograph with high-speed flash, a packed and brightly lit NBA arena during the Mid-Autumn Festival game, shot from a low angle on the baseline. A player seen only from behind, in a bright red home jersey, rises for a two-handed dunk; at the top of the leap the orange ball sits exactly inside the round orange rim, lit warm gold, so it reads as a dunk and a full harvest moon at once. Behind the basket the whole crowd is on its feet, thousands of warm yellow phone lights raised, softly out of focus. In the lower-right foreground stands the red padded base of the basket stanchion. The attached image is the official NBA Logoman: it is printed on the flat front face of this padding exactly as supplied - correct proportions, blue left, red right, white player silhouette, thin white outline - sharp, upright and undistorted, about 7% of the frame height. Across the top, in bold condensed white Simplified Chinese characters: "全场起立，一起团圆" exactly and only. Bright saturated league red, basketball orange and warm gold, crisp motion detail, natural grain. No identifiable faces, no other logos, no team marks, no other text.
+Vertical 2:3 sports photograph with high-speed flash, a packed and brightly lit NBA arena during the Mid-Autumn Festival game, shot from a low angle on the baseline. A player seen only from behind, in a bright red home jersey, rises for a two-handed dunk; at the top of the leap the orange ball sits exactly inside the round orange rim, lit warm gold, so it reads as a dunk and a full harvest moon at once. Behind the basket the whole crowd is on its feet, thousands of warm yellow phone lights raised, softly out of focus. In the lower-right foreground stands the red padded base of the basket stanchion. The attached image is the official NBA Logoman: it is printed on the flat front face of this padding exactly as supplied - correct proportions, blue left, red right, white player silhouette, thin white outline - sharp, upright and undistorted, about 7% of the frame height. A centered title block in the clean upper area: the headline in bold condensed white Simplified Chinese characters, "全场起立 · 一起团圆" exactly and only; below it, smaller and widely letter-spaced in a white serif, "HAPPY MID-AUTUMN FESTIVAL" exactly and only. Bright saturated league red, basketball orange and warm gold, crisp motion detail, natural grain. No identifiable faces, no other logos, no team marks, no other text.
 ```

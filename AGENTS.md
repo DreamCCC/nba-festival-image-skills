@@ -4,6 +4,7 @@
 
 ## 开工
 
+0. 先把本仓库同步到最新的 `main`：`git fetch -q origin main && git reset -q --hard FETCH_HEAD && git log --oneline -1`。工作区可能是旧缓存，不同步就会按过期的方法做。
 1. 阅读 `festival-poster/SKILL.md`，按其中的工作流逐步完成。
 2. 只处理任务里给出的那一个节日。
 3. 最终只返回 `reference/output-envelope.md` 规定的信封。
@@ -12,7 +13,7 @@
 
 下面几条不因同事的补充要求而改变：
 
-- 三要素：每张图都要有节日与 NBA 资产的巧妙结合、一句应景文案、官方 Logoman。
+- 三要素：每张图都要有节日与 NBA 资产的巧妙结合、主文案加节日落款、官方 Logoman。
 - 设计原则：先检索真实灵感，NBA 资产与节日有机融合，免俗、高级，六张六种风格。
 - 品牌调性：表达篮球运动的激情，色彩明亮、积极。不做以黑、深蓝、灰为主调或冷清孤独的画面。
 - Logoman：每张图都由 img2.5 参照 `assets/logoman-reference.png` 直接生成官方 Logoman。不画仿制标志，不出现球队队徽或其他标志，不用任何后期叠加。
