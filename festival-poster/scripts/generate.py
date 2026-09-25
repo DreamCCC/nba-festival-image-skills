@@ -49,7 +49,7 @@ def main() -> None:
                     time.sleep(5)
         return {"id": item["id"], "content_url": "", "file": "", "error": error}
 
-    with ThreadPoolExecutor(max_workers=3) as pool:
+    with ThreadPoolExecutor(max_workers=6) as pool:
         results = list(pool.map(run, items))
 
     Path(args.results).write_text(json.dumps(results, ensure_ascii=False, indent=2))

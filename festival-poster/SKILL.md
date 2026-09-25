@@ -72,7 +72,7 @@ python festival-poster/scripts/generate.py prompts.json results.json --out-dir /
 
 - 调用 `gpt-image-2.5-sunburst`，尺寸 `1024x1536`。
 - 自动附上官方 Logoman 参考图 `assets/logoman-reference.png`。
-- 三路并发，失败的自动重试一次。
+- 六张同时生成，失败的自动重试一次。
 - 把成图存到 `--out-dir` 供你查看，`content_url` 写入 `results.json`。
 
 密钥由 Cursor 后台的 Secrets 注入为环境变量 `AIHUBMIX_API_KEY`，脚本直接读取。不要回显、保存或复述密钥。脚本报 `AIHUBMIX_API_KEY is not set.` 时不要自己找密钥或换其他生图方式，直接在信封的 `===NOTES===` 里写明这条错误，`===POSTERS===` 返回空数组 `[]`。
