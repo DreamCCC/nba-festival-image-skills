@@ -22,6 +22,12 @@ sources: N
     "has_text": false,
     "asset": "主资产，例如 球架护垫",
     "fusion": "一句话说清双重读法：它是什么，同时又是什么",
+    "insight": "出发点：这张图取自节日里人们真实在做的哪件事，一句话",
+    "inspiration": {
+      "title": "来源标题",
+      "url": "来源 URL，必须与 ===NOTES=== 中的某一条相同",
+      "method": "从这条来源借用了什么方法，要能在画面里看出来"
+    },
     "logoman": "Logoman 的放法与位置，例如 印在前景球架护垫上",
     "prompt": "实际发给 img2.5 的完整英文 prompt",
     "content_url": "results.json 里该张的 content_url"
@@ -30,6 +36,7 @@ sources: N
 ```
 
 - `has_text` 表示成图里是否有可读文字。
+- `insight` 和 `inspiration` 来自概念卡的"洞察"和"灵感"两栏，网站会在大图旁展示给同事。写给人看，不要写成 prompt。
 - `content_url` 原样填写，不要改写、缩短或重新托管。它约 30 分钟失效，最后一次生成完成后尽快返回信封。
 - 某张没有拿到 `content_url` 时重做该张，不要留空。
 - 生图脚本整体无法运行（例如缺少 `AIHUBMIX_API_KEY`）时，`===POSTERS===` 返回 `[]`，`===NOTES===` 只写错误原文。
