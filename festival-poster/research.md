@@ -12,6 +12,8 @@
 
 三条线都要覆盖。节日洞察决定"说什么"，设计方法决定"怎么说"。
 
+节气没有统一的庆祝方式。洞察从物候、时令饮食和当季生活的变化里找，例如立秋贴秋膘、白露换上长袖、冬至吃饺子。NBA 这条线找节气前后的赛季节点，例如训练营、开季、圣诞大战、全明星、季后赛、选秀。
+
 ## 来源
 
 优先打开：
@@ -26,7 +28,7 @@
 
 ## 搜索写法
 
-- 节日洞察：`2026 中秋 返乡`、`Thanksgiving 2026 trends family`、`春节 年轻人 新习俗`
+- 节日洞察：`2026 中秋 返乡`、`Thanksgiving 2026 trends family`、`春节 年轻人 新习俗`、`白露 习俗 年轻人 2026`
 - NBA 关系：`NBA Christmas Day games history`、`NBA Lunar New Year jersey`、`NBA 中秋 海报 球队`
 - 设计方法：`Mid-Autumn campaign D&AD`、`中秋 品牌海报 数英 2025`、`sports poster risograph 2025`
 
